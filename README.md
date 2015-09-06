@@ -1,13 +1,13 @@
 # Link-state
 Project for networking class to simulate the link-state routing algorithm (like Dijkstra). Posting since deadline passed.
 
-## Compiling the Code:
+### Compiling the Code:
 javac linkstate.java
 
-## Running the Code:
+### Running the Code:
 java linkstate network.text
 
-## Code Structure:
+### Code Structure:
 First, my code reads in the file and obtains the size. Next, my code parses the file and separates each element by commas. Then these number values are filled into a double arraylist.
 
 There are two separate lists called distanceList and locationList to keep track of the distances and locations.
