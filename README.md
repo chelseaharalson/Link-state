@@ -1,5 +1,5 @@
 # Link-state
 Project for networking class to simulate the link-state routing algorithm (like Dijkstra). Posting since deadline passed.
 
-# Compiling the Code:
+## Compiling the Code:
 javac linkstate.java
